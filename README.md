@@ -24,8 +24,8 @@ new Vue({
 }
 })
 ```
-結果:
-![](https://i.imgur.com/iMDL0ki.png)
+結果:<br/>
+![](https://i.imgur.com/iMDL0ki.png)<br/>
 附上[程式碼範例](https://jsfiddle.net/EddieLiu58/01hzuq5t/31/)
 
 ##  02 - Bind Message
@@ -45,8 +45,8 @@ var app2 = new Vue({
   }
 })
 ```
-結果:
-![](https://i.imgur.com/me1CLX3.png)
+結果:<br/>
+![](https://i.imgur.com/me1CLX3.png)<br/>
 附上[程式碼範例](https://jsfiddle.net/EddieLiu58/kjsvhndy/)
 
 ## 03 - Conditional Rendering
@@ -68,12 +68,11 @@ var app3 = new Vue({
   }
 })
 ```
-結果:
-
-未點button，此時seen預設為true，**v-if成立**，文字顯示。
-![](https://i.imgur.com/eppDdZg.png)
-點擊button後，因為seen變為false，**v-if並未成立**，綁定v-if的文字則消失了。
-![](https://i.imgur.com/1hP7iL4.png)
+結果:<br/>
+未點button，此時seen預設為true，**v-if成立**，文字顯示。<br/>
+![](https://i.imgur.com/eppDdZg.png)<br/>
+點擊button後，因為seen變為false，**v-if並未成立**，綁定v-if的文字則消失了。<br/>
+![](https://i.imgur.com/1hP7iL4.png)<br/>
 附上[程式碼範例](https://jsfiddle.net/EddieLiu58/bt2m5fh4/)
 
 ## 04 - List Rendering
@@ -107,9 +106,8 @@ var app4 = new Vue({
   }
 })
 ```
-結果:
-![](https://i.imgur.com/6vxIgKC.png)
-
+結果:<br/>
+![](https://i.imgur.com/6vxIgKC.png)<br/>
 附上[程式碼範例](https://jsfiddle.net/EddieLiu58/2mhr87do/)
 
 ## 05 - Event Handling
@@ -134,8 +132,8 @@ var app5 = new Vue({
   }
 })
 ```
-結果:
-![](https://i.imgur.com/r6ga0nh.png)
+結果:<br/>
+![](https://i.imgur.com/r6ga0nh.png)<br/>
 附上[程式碼範例](https://jsfiddle.net/EddieLiu58/ymuc9Lgn/)
 
 ## 06 - Form Input Bindings
@@ -154,9 +152,8 @@ var app6 = new Vue({
   }
 })
 ```
-結果:
-![](https://i.imgur.com/GpJEjNi.png)
-
+結果:<br/>
+![](https://i.imgur.com/GpJEjNi.png)<br/>
 附上[程式碼範例](https://jsfiddle.net/EddieLiu58/uvkLqzp8/)
 ## 07 - Component
 ```
@@ -193,10 +190,8 @@ var app7 = new Vue({
 })
 
 ```
-結果:
-![](https://i.imgur.com/XGCgWQy.png)
-
-
+結果:<br/>
+![](https://i.imgur.com/XGCgWQy.png)<br/>
 附上[程式碼範例](https://jsfiddle.net/EddieLiu58/wk4r7x5u/#&togetherjs=EMFcTyDTT3)
 
  
